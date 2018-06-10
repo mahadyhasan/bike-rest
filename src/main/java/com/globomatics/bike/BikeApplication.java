@@ -1,4 +1,4 @@
-package com.globalmatics.bike;
+package com.globomatics.bike;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

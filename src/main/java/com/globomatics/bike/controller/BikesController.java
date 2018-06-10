@@ -1,7 +1,7 @@
-package com.globalmatics.bike.controller;
+package com.globomatics.bike.controller;
 
-import com.globalmatics.bike.models.Bike;
-import com.globalmatics.bike.repositories.BikeRepository;
+import com.globomatics.bike.models.Bike;
+import com.globomatics.bike.repositories.BikeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
